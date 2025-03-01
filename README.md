@@ -1,25 +1,56 @@
-<p align="center">
- <img src="bg.gif" alt="pict" width="400"> autoplay loop>
-</p>
-# 💫About Me :
+  <p>
+       <img src="bg.gif" alt="pict" width="400">
+       <h1>Hi there 🙌</h1> 
+    </p>
     
-🤼‍♀️ Saat ini saya sedang mengembangkan website portofolio pribadi menggunakan VS Code. Saya juga sedang belajar membuat database menggunakan MySQL, dan merancang tampilan UI/UX menggunakan Figma.
+I'm using HTML, CSS, and JavaScript to make websites dance 💃 
 
-🏋️‍♂️ Saya tertarik untuk berkolaborasi dalam proyek pengembangan web, aplikasi, atau data science. Saya terbuka untuk belajar dan berkontribusi dalam tim.
+<p>
+ 🛫 I'm working on
 
-🏗  Saya sedang mendalami konsep-konsep lanjutan dalam pengembangan web dan database. Saya juga ingin belajar lebih banyak tentang desain UI/UX.
+* Projects for freelance clients.
+* Growing Upbeat Code to 100k/month visitors.</P
 
-🔮 Saya sedang mendalami konsep-konsep lanjutan dalam pengembangan web dan database. Saya juga ingin belajar lebih banyak tentang desain UI/UX.
+📑 I'm learning
+<p>
+  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/visual%20studio%20code-%230078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
-📡 Saat ini saya sedang mempelajari pengembangan web front-end dan back-end, database MySQL, dan desain UI/UX menggunakan Figma. Saya juga sedang belajar bahasa pemrograman Java dan C++.
-   </p>
-🪄 Saya suka menjelajahi teknologi baru dan mencoba hal-hal baru. Saya juga suka bermain game dan mendengarkan musik.
+🎎 I'm looking for help with
+* Integrating AI models to web applications.
 
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sayahanaaa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@alpikatmentega1111) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/hanasyarifah27) 
+🗳 How to reach me
+<p>
+  <a href="https://www.instagram.com/sayahanaaa"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://wa.me/nomorwhatsapp"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.tiktok.com/@alpikatmentega1111"><img src="https://img.shields.io/badge/tiktok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+</p>
 
-# 💻Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+🌻 Fun fact
+
+I'm definitely not a cat person 🐯.
+
+
+<p><h1>💻Tech Stack </h1></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Adobe Premiere Pro">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</p>
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=HanaSyarifahG1A023017&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HanaSyarifahG1A023017&theme=radical&hide_border=true)<br/>
