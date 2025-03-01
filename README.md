@@ -55,6 +55,6 @@ I'm definitely not a cat person 🐯.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HanaSyarifahG1A023017&show_icons=true&theme=dark" alt="HanaSyarifahG1A023017's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanaSyarifahG1A023017&theme=dark" alt="HanaSyarifahG1A023017's GitHub Streak" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanaSyarifahG1A023017&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanaSyarifahG1A023017&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
 
