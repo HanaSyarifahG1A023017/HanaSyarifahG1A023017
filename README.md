@@ -30,7 +30,9 @@ I'm using HTML, CSS, and JavaScript to make websites dance 💃
 
 🌻 Fun fact
 
-I'm definitely not a cat person 🐯.
+*I'm a cat person 🐯.
+*I like to have small talk😗.
+*I enjoy playing games.
 
 
 <p><h1>💻Tech Stack </h1></p>
