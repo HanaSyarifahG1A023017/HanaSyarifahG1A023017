@@ -1,6 +1,6 @@
-<div style="display: flex; align-items: center;">
-  <img src="bg.gif" alt="pict" width="400">
-  <div>
+<p align="center">
+ <img src="bg.gif" alt="pict" width="400"> autoplay loop>
+</p>
 # 💫About Me :
     
 🤼‍♀️ Saat ini saya sedang mengembangkan website portofolio pribadi menggunakan VS Code. Saya juga sedang belajar membuat database menggunakan MySQL, dan merancang tampilan UI/UX menggunakan Figma.
@@ -12,10 +12,8 @@
 🔮 Saya sedang mendalami konsep-konsep lanjutan dalam pengembangan web dan database. Saya juga ingin belajar lebih banyak tentang desain UI/UX.
 
 📡 Saat ini saya sedang mempelajari pengembangan web front-end dan back-end, database MySQL, dan desain UI/UX menggunakan Figma. Saya juga sedang belajar bahasa pemrograman Java dan C++.
-
+   </p>
 🪄 Saya suka menjelajahi teknologi baru dan mencoba hal-hal baru. Saya juga suka bermain game dan mendengarkan musik.
-   </div>
-</div>
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sayahanaaa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@alpikatmentega1111) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/hanasyarifah27) 
