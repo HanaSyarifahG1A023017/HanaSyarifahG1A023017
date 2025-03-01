@@ -1,7 +1,7 @@
-  <p>
-       <img src="bg.gif" alt="pict" width="400">
-       <h1>Hi there 🙌</h1> 
-    </p>
+<p align="center">
+  <img src="bg.gif" alt="pict" width="400">
+  <h1>Hi there </h1>
+</p>
     
 I'm using HTML, CSS, and JavaScript to make websites dance 💃 
 
@@ -51,16 +51,10 @@ I'm definitely not a cat person 🐯.
   <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=HanaSyarifahG1A023017&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HanaSyarifahG1A023017&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaSyarifahG1A023017&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<P>📊GitHub Stats :</P> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HanaSyarifahG1A023017&show_icons=true&theme=dark" alt="HanaSyarifahG1A023017's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanaSyarifahG1A023017&theme=dark" alt="HanaSyarifahG1A023017's GitHub Streak" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanaSyarifahG1A023017&layout=compact&theme=dark" alt="Most Used Languages" />
+</p>
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=HanaSyarifahG1A023017&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=HanaSyarifahG1A023017&icon=4&color=2)](https://visitcount.itsvg.in)
