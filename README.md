@@ -2,6 +2,7 @@
   <img src="bg.gif" alt="pict" width="400">
   <div>
 # 💫About Me :
+    
 🤼‍♀️ Saat ini saya sedang mengembangkan website portofolio pribadi menggunakan VS Code. Saya juga sedang belajar membuat database menggunakan MySQL, dan merancang tampilan UI/UX menggunakan Figma.
 
 🏋️‍♂️ Saya tertarik untuk berkolaborasi dalam proyek pengembangan web, aplikasi, atau data science. Saya terbuka untuk belajar dan berkontribusi dalam tim.
