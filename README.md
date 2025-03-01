@@ -28,11 +28,13 @@ I'm using HTML, CSS, and JavaScript to make websites dance 💃
   <a href="https://www.tiktok.com/@alpikatmentega1111"><img src="https://img.shields.io/badge/tiktok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 </p>
 
-🌻 Fun fact
-
-*I'm a cat person 🐯.
-*I like to have small talk😗.
-*I enjoy playing games.
+<p>🌻 Fun fact
+  <ul>
+    <li>I'm a cat person 🐯.</li>
+    <li>I like to have small talk😗</li>
+    <li>I enjoy playing games 👾</li>
+  </ul>
+  </p>
 
 
 <p><h1>💻Tech Stack </h1></p>
